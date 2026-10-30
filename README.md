@@ -13,4 +13,4 @@ Computer Engineering student (International Track) at UPV/EHU and software devel
 </p>
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/TU-PERFIL) · [Email](mailto:TU-EMAIL) · [Web](https://TU-WEB.dev)
+[LinkedIn](https://www.linkedin.com/in/rodrigo-alvarez-baz-b10b8b273/)
