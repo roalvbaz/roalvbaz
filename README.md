@@ -21,7 +21,22 @@ Computer Engineering student (International Track) and software developer focuse
 
 **Tools & Environment:**  
 `Linux (Hyprland / CachyOS)` · `Docker` · `Git` · `VS Code` · `Power Platform / Power BI`
+### 🛠️ Tech Stack & Tooling
 
+**Languages:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,ts,js,dart,py&theme=dark" alt="Languages" />
+</p>
+
+**Frameworks & Fullstack:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,supabase,nodejs&theme=dark" alt="Frameworks" />
+</p>
+
+**Tools & Environment:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode&theme=dark" alt="Tools" />
+</p>
 ---
 
 ### ⚡ Quick Facts
